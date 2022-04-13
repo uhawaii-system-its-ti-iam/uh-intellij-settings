@@ -1,7 +1,7 @@
 This project will contain the Java and JavaScript code formatting settings for
 the UHGroupings project. These settings are made for the IntelliJ IDE.
 
-This guide will walk you through how to import the UH Intellij Settings repository to your own device. 
+This guide will walk you through importing the UH Intellij Settings repository to your own device. 
 
 ## Installation Guide
 
